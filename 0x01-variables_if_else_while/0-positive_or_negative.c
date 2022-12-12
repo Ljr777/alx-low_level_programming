@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/* more headers goes there */
+
 /**
  * main - entry point
  * Description - Prints if random generated number is +tive, zero or -tive
