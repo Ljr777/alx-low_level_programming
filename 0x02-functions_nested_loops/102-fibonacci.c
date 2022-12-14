@@ -21,7 +21,7 @@ int main(void)
 		if (i == 49)
 		{
 			printf("%lu", n1);
-		}else
+		} else
 		{
 			printf("%lu, ", n1);
 			next = n1 + n2;
