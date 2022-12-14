@@ -20,15 +20,15 @@ int main(void)
 	{
 		if (i == 49)
 		{
-			printf("%lu", n1);
+			printf('%lu', n1);
 		}else
 		{
-			printf("%lu, ", n1);
+			printf('%lu, ', n1);
 			next = n1 + n2;
 			n1 = n2;
 			n2 = next;
 		}
 	}
-	printf("\n");
+	printf('\n');
 	return (0);
 }
