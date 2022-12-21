@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _puts - Print a string folllowed by a new line.
+ * _puts - Print a string followed by a new line.
  *
  * @str: String to be printed
  *
